@@ -5,8 +5,8 @@
    Tutorial 12
    Case Problem 2
 
-   Author: 
-   Date:   
+   Author: Diego Sandoval
+   Date:   April 3, 2019 (04/03/19)
 
    Filename: sub_cart.js
 
@@ -21,4 +21,3 @@
       the customer.
 
 */
-
